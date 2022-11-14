@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.4.170">
+	<MenuStyle value="Classic1"/>
+	<CheckWinUpdates value="0"/>
+	<SearchBox value="Normal"/>
+	<MainMenuAnimation value="Random"/>
+	<MainMenuAnimationSpeed value="2000"/>
+	<SubMenuAnimation value="Random"/>
+	<SubMenuAnimationSpeed value="1000"/>
+	<SkinC1 value="Windows XP Luna"/>
+	<SkinVariationC1 value="Olive green"/>
+	<SkinOptionsC1>
+		<Line>CAPTION=1</Line>
+		<Line>USER_IMAGE=0</Line>
+		<Line>USER_NAME=0</Line>
+		<Line>CENTER_NAME=0</Line>
+		<Line>SMALL_ICONS=0</Line>
+		<Line>LARGE_FONT=0</Line>
+		<Line>ICON_FRAMES=1</Line>
+		<Line>OPAQUE=0</Line>
+	</SkinOptionsC1>
+	<EnableStartButton value="1"/>
+	<StartButtonType value="CustomButton"/>
+	<StartButtonPath value="%USERPROFILE%\blissfullyunaware\XPButton.png"/>
+	<CustomTaskbar value="1"/>
+	<TaskbarLook value="Opaque"/>
+	<TaskbarTexture value="%USERPROFILE%\blissfullyunaware\xp_bg.png"/>
+	<SkipMetro value="1"/>
+</Settings>
